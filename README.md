@@ -14,7 +14,7 @@ Assignment - Week 3 - Homework - Intro to State & Props (Scrissors - Rock - Pape
   + User can see how games they've won, lose, tied.
   + User can see the percentages of wins, losses, and tie games they've had.
 
-GIF hướng dẫn
+- GIF hướng dẫn:
 
 ![Scissors-Rock-Paper](https://user-images.githubusercontent.com/50457569/62196755-cacfbb80-b3a8-11e9-8f36-b5c327f484fe.gif)
 
